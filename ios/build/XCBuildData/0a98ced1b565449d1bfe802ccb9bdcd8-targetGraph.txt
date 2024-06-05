@@ -1,0 +1,19 @@
+Target dependency graph (8 targets)
+Flutter in Pods, no dependencies
+camera_avfoundation-camera_avfoundation_privacy in Pods, no dependencies
+camera_avfoundation in Pods, depends on:
+Flutter in Pods (explicit)
+camera_avfoundation-camera_avfoundation_privacy in Pods (explicit)
+integration_test in Pods, depends on:
+Flutter in Pods (explicit)
+path_provider_foundation-path_provider_foundation_privacy in Pods, no dependencies
+path_provider_foundation in Pods, depends on:
+Flutter in Pods (explicit)
+path_provider_foundation-path_provider_foundation_privacy in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+camera_avfoundation in Pods (explicit)
+integration_test in Pods (explicit)
+path_provider_foundation in Pods (explicit)
+Pods-RunnerTests in Pods, depends on:
+Pods-Runner in Pods (explicit)

@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98483832d3c820398e9d40e1a6904b03fe"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f08a09402d437c098acddc7bcf497e64"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b9038e7e871b75150c57ed973218b158"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9809ad3ea68f8eb069e147f62c5d752fe7"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9830037b09fee48cfce1f8562d753688c8"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987ea64ee8d53085bf9edd1a57aaf8cbb5"
+    }
+  ],
+  "containerPath" : "/Users/aditya.shrestha/StudioProjects/camera_demo_app/ios/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/aditya.shrestha/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aditya.shrestha/Library/Developer/Xcode/DerivedData/Pods-acrarxeuzbdayxhfzznwdawcvdsm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aditya.shrestha/Library/Developer/Xcode/DerivedData/Pods-acrarxeuzbdayxhfzznwdawcvdsm/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
